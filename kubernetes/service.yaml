@@ -8,5 +8,5 @@ spec:
   type: LoadBalancer
   ports:
     - protocol: TCP
-      port: 1003
-      targetPort: 1003
+      port: 9003
+      targetPort: 9003
